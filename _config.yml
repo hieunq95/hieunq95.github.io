@@ -8,12 +8,12 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Hieu Quang Nguyen
-author : Hieu Quang Nguyen
-  name : 
+title : simple site
+author : 
+  name : Hieu Quang Nguyen
   email : hieu1204@gmail.com
-  github : hieu1204
-  twitter : hieu1204
+  github : hieunq95
+  # twitter : hieu1204
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL

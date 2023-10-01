@@ -35,19 +35,3 @@ main:
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Apr 2023
     image: ./assets/img/hieu2023joint.png
-
-  - title: "Transferable Deep Reinforcement Learning Framework for Autonomous Vehicles with Joint Radar-Data Communications"
-    authors: <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, P. Wang, D. In Kim, and C. Yuen
-    conference_short: TCOM
-    conference: IEEE Transactions on Communications
-    pdf: https://arxiv.org/abs/2105.13670
-    notes: Aug 2022
-    image: ./assets/img/hieu2022transferable.png
-
-  - title: "Optimal Power Allocation for Rate Splitting Communications with Deep Reinforcement Learning"
-    authors: <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, and D. In Kim
-    conference_short: WCL
-    conference: IEEE Wireless Communications Letters
-    pdf: https://arxiv.org/pdf/2107.00238
-    notes: Oct 2021
-    image: ./assets/img/hieu2021optimal.png

@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at School of Electrical and Data Engineering, University of Technology Sydney (UTS), Australia, working with Dr. [Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and Dr. [Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/). Before joining UTS, I was a research assistant at Nanyang Technological University, Singapre, working with Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). I obtained my Bachelor's degree from Hanoi University of Science and Technology, Vietnam, under supervison of Dr. Nguyen Huu Thanh. 
+I am a Ph.D. student at School of Electrical and Data Engineering, University of Technology Sydney (UTS), Australia, working with Dr. [Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and Dr. [Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/). Before joining UTS, I was a research assistant at Nanyang Technological University, Singapre, working with Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). I obtained my Bachelor's degree in 2018 from Hanoi University of Science and Technology, Vietnam, under supervison of Dr. Nguyen Huu Thanh. 
 
 ## Research Interests
 
-- **Wireless Communications:** resource allocation, sensing, source-channel coding, 
+- **Wireless Communications:** resource allocation, edge computing, source-channel coding
 - **Machine Learning:** reinforcement learning, deep learning, generative modelling
 - **Computer vision:** 3D animation, motion tracking
 
@@ -26,3 +26,5 @@ I am a Ph.D. student at School of Electrical and Data Engineering, University of
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/full_publications.md %}

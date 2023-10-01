@@ -1,22 +1,53 @@
 main:
+  - title: "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey"
+    authors: H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin
+    conference_short: Preprint
+    conference: Arxiv
+    pdf: https://arxiv.org/abs/2309.01848
+    image: ./assets/img/zhu2023survey.png
+    notes: Under review - IEEE COMST
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface"
+    authors: <strong>N.Q. Hieu</strong>, D.T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, E. Dutkiewicz
+    conference_short: Preprint
+    conference: Arxiv
+    pdf: https://arxiv.org/abs/2303.10577
+    image: ./assets/img/hieu2023enhancing.png
+    notes: Under review - IEEE TWC
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "When Virtual Reality Meets Rate Splitting Multiple Access: A Joint Communication and Computation Approach"
+    authors: <strong>N. Q. Hieu</strong>, Diep N. Nguyen, D. T. Hoang, and E. Dutkiewicz
+    conference_short: JSAC
+    conference: IEEE Journal on Selected Areas in Communications
+    pdf: https://arxiv.org/pdf/2207.12114.pdf
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/hieu2023when.png
+    notes: May 2023
+
+  - title: "Joint Power Allocation and Rate Control for Rate Splitting Multiple Access Networks with Covert Communications"
+    authors: <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, D. N. Nguyen, D. I. Kim, and A. Jamalipour
+    conference_short: TCOM
+    conference: IEEE Transactions on Communications
+    pdf: https://arxiv.org/abs/2203.16807
+    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Apr 2023
+    image: ./assets/img/hieu2023joint.png
+
+  - title: "Transferable Deep Reinforcement Learning Framework for Autonomous Vehicles with Joint Radar-Data Communications"
+    authors: <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, P. Wang, D. In Kim, and C. Yuen
+    conference_short: TCOM
+    conference: IEEE Transactions on Communications
+    pdf: https://arxiv.org/abs/2105.13670
+    notes: Aug 2022
+    image: ./assets/img/hieu2022transferable.png
+
+  - title: "Optimal Power Allocation for Rate Splitting Communications with Deep Reinforcement Learning"
+    authors: <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, and D. In Kim
+    conference_short: WCL
+    conference: IEEE Wireless Communications Letters
+    pdf: https://arxiv.org/pdf/2107.00238
+    notes: Oct 2021
+    image: ./assets/img/hieu2021optimal.png

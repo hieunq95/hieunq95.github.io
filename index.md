@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at School of Electrical and Data Engineering, University of Technology Sydney (UTS), Australia, working with Dr. [Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and Dr. [Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/). Before joining UTS, I was a research assistant at Nanyang Technological University, Singapre, working with Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). I obtained my Bachelor's degree in 2018 from Hanoi University of Science and Technology, Vietnam, under supervison of Dr. Nguyen Huu Thanh. 
+I am a Ph.D. student at School of Electrical and Data Engineering, University of Technology Sydney (UTS), Australia, working with Dr. [Hoang Dinh](https://sites.google.com/view/dinh-thai-hoang/) and Dr. [Diep Nguyen](https://sites.google.com/view/diep-n-nguyen/). Before joining UTS, I was a research assistant at Nanyang Technological University (NTU), Singapore, working with Prof. [Dusit Niyato](https://personal.ntu.edu.sg/dniyato/). I obtained my Bachelor's degree in 2018 from Hanoi University of Science and Technology, Vietnam, under supervison of Dr. Nguyen Huu Thanh. 
 
 ## Research Interests
 
-- **Wireless Communications:** resource allocation, edge computing, source-channel coding
-- **Machine Learning:** reinforcement learning, deep learning, generative modelling
-- **Computer vision:** 3D animation, motion tracking
+During the time at NTU Singapore, I spent most of my time exploring deep reinforcement learning algorithms to solve optimization and sequential decision making problems in wireless communications. The problems include blockchain networks, integrated sensing-communications, rate splitting multiple access, and edge computing. When I started my PhD at UTS, I developed a broader range of interests that involves advanced topics in virtual reality, brain computer interface, body motion tracking, and their applications in future wireless sytems. As the research topics grow wider, I start exploring new frameworks such as generative models, graphical models, and information theory tools.
 
 ## News
 
-- **[Aug. 2023]** Our conference paper about brain computer interface for edge Metaverse is accepted to IEEE Globecom 2023
-- **[Jul. 2023]** Our journal paper about brain computer interface for edge Metaverse is submitted to IEEE TWC
-- **[Jan. 2023]** Our conference paper about rate splitting multiple access for 360-degree video streaming is accepted to IEEE ICC 2023
+- **[Aug. 2023]** Our paper "Toward BCI-enabled Metaverse: A Joint Learning and Resource Allocation Approach" is accepted to IEEE Globecom 2023
+- **[Jul. 2023]** Our paper "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey" is submitted to IEEE COMST
+- **[Jul. 2023]** Our paper "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface"  is submitted to IEEE TWC
+- **[Jan. 2023]** Our paper "A Unified Resource Allocation Framework for Virtual Reality Streaming over Wireless Networks" is accepted to IEEE ICC 2023
 
 ## Awards
 - **[Apr. 2023]** IEEE ComSoc Student Travel Grant, ICC, Rome, Italy
@@ -28,3 +27,5 @@ I am a Ph.D. student at School of Electrical and Data Engineering, University of
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/full_publications.md %}
+
+{% include_relative _includes/books.md %}

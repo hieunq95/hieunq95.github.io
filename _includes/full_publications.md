@@ -4,13 +4,13 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P2] H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin, "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey", submitted to IEEE Communications Surveys & Tutorials.
+[P2] H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin, "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey," submitted to IEEE Communications Surveys & Tutorials.
 </autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P1] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, and E. Dutkiewicz, "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface", submitted to IEEE Transactions on Wireless Communications.
+[P1] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, and E. Dutkiewicz, "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface," submitted to IEEE Transactions on Wireless Communications.
 </autocolor></a></li>
 </ul>
 
@@ -43,7 +43,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[J4] K. S. H. Ong, W. Wang, <strong>N. Q. Hieu</strong>, D. Niyato, and T. Friedrichs, "Predictive Maintenance Model for IIoT-based Manufacturing: A Transferable Deep Reinforcement Learning Approach", IEEE Internet of Things Journal, vol. 9, no. 17, Sep. 2022 (IF = 10.6, Q1).
+[J4] K. S. H. Ong, W. Wang, <strong>N. Q. Hieu</strong>, D. Niyato, and T. Friedrichs, "Predictive Maintenance Model for IIoT-based Manufacturing: A Transferable Deep Reinforcement Learning Approach," IEEE Internet of Things Journal, vol. 9, no. 17, Sep. 2022 (IF = 10.6, Q1).
 </autocolor></a></li>
 </ul>
 
@@ -55,7 +55,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[J2] N. V. Tam, <strong>N. Q. Hieu</strong>, N. T. T. Van, N. C. Luong, D. Niyato, and D. I. Kim, "Adaptive Task Offloading in Coded Edge Computing: A Deep Reinforcement Learning Approach", IEEE Communications Letters, vol. 25, no. 12, Sep. 2021(IF=4.1, Q1).
+[J2] N. V. Tam, <strong>N. Q. Hieu</strong>, N. T. T. Van, N. C. Luong, D. Niyato, and D. I. Kim, "Adaptive Task Offloading in Coded Edge Computing: A Deep Reinforcement Learning Approach," IEEE Communications Letters, vol. 25, no. 12, Sep. 2021(IF=4.1, Q1).
 </autocolor></a></li>
 </ul>
 

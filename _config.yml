@@ -22,7 +22,7 @@ linkedin: https://www.linkedin.com/in/hieu-nguyen-09b837115/
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/Bio-Hieu.jpg
 favicon: ./assets/img/scholar.png
-favicon_dark: ./assets/img/scholar-dark.png
+favicon_dark: ./assets/img/scholar.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."

@@ -19,13 +19,13 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[J8] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, D. N. Nguyen, D. I. Kim, and A. Jamalipour, "Joint Power Allocation and Rate Control for Rate Splitting Multiple Access Networks with Covert Communications," IEEE Transactions on Communications, vol. 71, no. 4, pp. 2274-2287, Apr. 2023 (IF=8.3, Q1).
+[J8] <strong>N. Q. Hieu</strong>, D. N. Nguyen, D. T. Hoang, and E. Dutkiewicz, "When Virtual Reality Meets Rate Splitting Multiple Access: A Joint Communication and Computation Approach," IEEE Journal on Selected Areas in Communications, vol. 41, no. 5, pp. 1536-1548, May 2023 (IF=16.4, Q1).
 </autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[J7] <strong>N. Q. Hieu</strong>, D. N. Nguyen, D. T. Hoang, and E. Dutkiewicz, "When Virtual Reality Meets Rate Splitting Multiple Access: A Joint Communication and Computation Approach," IEEE Journal on Selected Areas in Communications, vol. 41, no. 5, pp. 1536-1548, May 2023 (IF=16.4, Q1).
+[J7] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, D. N. Nguyen, D. I. Kim, and A. Jamalipour, "Joint Power Allocation and Rate Control for Rate Splitting Multiple Access Networks with Covert Communications," IEEE Transactions on Communications, vol. 71, no. 4, pp. 2274-2287, Apr. 2023 (IF=8.3, Q1).
 </autocolor></a></li>
 </ul>
 

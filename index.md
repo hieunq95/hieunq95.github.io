@@ -8,7 +8,7 @@ I am a Ph.D. student at School of Electrical and Data Engineering, University of
 
 ## Research Interests
 
-During the time at NTU Singapore, I spent most of my time exploring deep reinforcement learning algorithms to solve optimization and sequential decision making problems in wireless communications. The problems include blockchain networks, integrated sensing-communications, rate splitting multiple access, and edge computing. When I started my PhD at UTS, I developed a broader range of interests that involves advanced topics in virtual reality, brain computer interface, body motion tracking, and their applications in future wireless sytems. As the research topics grow wider, I start exploring new frameworks such as generative models, graphical models, and information theory tools.
+During my time at NTU Singapore, I spent most of my time exploring deep reinforcement learning algorithms to solve optimization and sequential decision-making problems in wireless communications. The problems include blockchain networks, integrated sensing-communications, rate splitting multiple access, and edge computing. During my PhD studies at UTS, I became interested in advanced topics related to virtual reality, brain-computer interfaces, 3D body motion tracking, and their potential applications in future wireless systems. As my research interests expanded, I began to explore new frameworks such as generative models, graphical models, and information theory tools to better understand and analyze these topics.
 
 ## News
 

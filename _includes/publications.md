@@ -1,5 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -5px;">Selected Publications</h2>
-<p style='margin: 0px 0px -5px;'> (For a full list of publications, check "All publications" section or my CV)</p>
+<p style='margin: 0px 0px -5px;'> (For a full list of publications, check "All publications" section of this page)</p>
 <div class="publications">
 <ol class="bibliography">
 

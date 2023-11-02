@@ -11,7 +11,7 @@ I am a Ph.D. student at School of Electrical and Data Engineering, University of
 During my time at NTU Singapore, I spent most of my time exploring deep reinforcement learning algorithms to solve optimization and sequential decision-making problems in wireless communications. The problems include blockchain networks, integrated sensing-communications, rate splitting multiple access, and edge computing. During my PhD studies at UTS, I became interested in advanced topics related to virtual reality, brain-computer interfaces, 3D body motion tracking, and their potential applications in future wireless systems. As my research interests expanded, I began to explore new frameworks such as generative models, graphical models, and information theory tools to better understand and analyze these topics.
 
 ## News
-
+- **[Nov. 2023]**: Our paper "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach" is submitted to IEEE JSAC
 - **[Aug. 2023]** Our paper "Toward BCI-enabled Metaverse: A Joint Learning and Resource Allocation Approach" is accepted to IEEE Globecom 2023
 - **[Jul. 2023]** Our paper "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey" is submitted to IEEE COMST
 - **[Jul. 2023]** Our paper "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface"  is submitted to IEEE TWC

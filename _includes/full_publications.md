@@ -4,6 +4,12 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
+[P3] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh, "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach," submitted to IEEE JSAC.
+</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+<li><a><autocolor>
 [P2] H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin, "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey," submitted to IEEE Communications Surveys & Tutorials.
 </autocolor></a></li>
 </ul>
@@ -70,7 +76,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[C5] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and E. Dutkiewicz, "Toward BCI-enabled Metaverse: A Joint Learning and Resource Allocation Approach,"  IEEE Global Communications Conference,  2023 (accepted).
+[C5] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and E. Dutkiewicz, "Toward BCI-enabled Metaverse: A Joint Learning and Resource Allocation Approach,"  IEEE Global Communications Conference, December 2023,  Malaysia (accepted).
 </autocolor></a></li>
 </ul>
 

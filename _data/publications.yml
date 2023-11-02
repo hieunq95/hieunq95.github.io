@@ -1,4 +1,12 @@
 main:
+  - title: "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach"
+    authors: <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh
+    conference_short: Preprint
+    conference: Arxiv
+    pdf: https://arxiv.org/abs/2310.20228
+    image: ./assets/img/hieu2023reconstructing.png
+    notes: Under review - IEEE JSAC
+
   - title: "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey"
     authors: H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin
     conference_short: Preprint
@@ -24,14 +32,3 @@ main:
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/hieu2023when.png
     notes: May 2023
-
-  - title: "Joint Power Allocation and Rate Control for Rate Splitting Multiple Access Networks with Covert Communications"
-    authors: <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, D. N. Nguyen, D. I. Kim, and A. Jamalipour
-    conference_short: TCOM
-    conference: IEEE Transactions on Communications
-    pdf: https://arxiv.org/abs/2203.16807
-    #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    #page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Apr 2023
-    image: ./assets/img/hieu2023joint.png

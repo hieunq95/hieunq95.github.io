@@ -18,6 +18,8 @@ During my time at NTU Singapore, I spent most of my time exploring deep reinforc
 - **[Jan. 2023]** Our paper "A Unified Resource Allocation Framework for Virtual Reality Streaming over Wireless Networks" is accepted to IEEE ICC 2023
 
 ## Awards
+- **[Nov. 2023]** [Honorary Mention](https://www.comsoc.org/membership/ieee-comsoc-student-competition/winners), IEEE ComSoc Student Competition, “Communications Technology Changing the World”
+- **[Nov. 2023]** Outstanding Higher Degree Research Student Award, School of Electrical and Data Engineering, UTS 
 - **[Apr. 2023]** IEEE ComSoc Student Travel Grant, ICC, Rome, Italy
 - **[Nov. 2021]** [ARC DECRA Funded Project Scholarship](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra), University of Technology, Australia
 - **[Nov. 2021]** UTS International Research Scholarship (UTS IRS)

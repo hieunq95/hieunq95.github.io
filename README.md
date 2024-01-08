@@ -93,7 +93,8 @@ Install and run:
 ```bash
 bundle install
 bundle add webrick
-bundle exec jekyll server
+bundle exec jekyll server 
+bundle exec jekyll serve --port=4001
 ```
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the HTML files in `_site` folder.

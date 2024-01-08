@@ -4,19 +4,19 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P3] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh, "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach," submitted to IEEE JSAC.
+[P3] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh, "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach," submitted to IEEE JSAC <a href="https://arxiv.org/abs/2310.20228"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P2] H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin, "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey," submitted to IEEE Communications Surveys & Tutorials.
+[P2] H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin, "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey," submitted to IEEE Communications Surveys & Tutorials <a href="https://arxiv.org/abs/2309.01848"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P1] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, and E. Dutkiewicz, "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface," submitted to IEEE Transactions on Wireless Communications.
+[P1] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, and E. Dutkiewicz, "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface," submitted to IEEE Transactions on Wireless Communications <a href="https://arxiv.org/abs/2303.10577"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 

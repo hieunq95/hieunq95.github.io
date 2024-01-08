@@ -29,3 +29,8 @@
 <ul style="margin:0 0 20px;">
 <li><a href="https://handbook.uts.edu.au/subjects/42037.html"><autocolor>Tutoring for IoT Security (42037), UTS, 2023</autocolor></a></li>
 </ul>
+
+<h4 style="margin:0 10px 0;">IEEE Student Brach</h4>
+<ul style="margin:0 0 20px;">
+<li><a href="https://ewh.ieee.org/sb/nsw/uts/about.html"><autocolor>Vice-Chair of the IEEE Student Branch at UTS, New South Wales, Australia, 2023 <a href="https://ewh.ieee.org/sb/nsw/uts/about.html"></a></autocolor></a></li>
+</ul>

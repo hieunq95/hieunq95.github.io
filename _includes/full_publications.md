@@ -4,7 +4,13 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P3] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh, "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach," submitted to IEEE JSAC <a href="https://arxiv.org/abs/2310.20228"> [arxiv]</a>.
+[P4] M. A. Hassan,  M. B. Jamshidi, B. D. Manh,  N. H. Chu, C. H. Nguyen, <strong>N. Q. Hieu</strong>,  C. T. Nguyen, D. T. Hoang, D. N. Nguyen, N. V. Huynh, M. A. Alsheikh, and E. Dutkiewicz, "Enabling Technologies for Web 3.0: A Comprehensive Survey," submitted to IEEE COMST <a href="https://arxiv.org/abs/2401.10901"> [arxiv]</a>.
+</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+<li><a><autocolor>
+[P3] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh, "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach," IEEE JSAC (major revision) <a href="https://arxiv.org/abs/2310.20228"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 
@@ -16,7 +22,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P1] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, and E. Dutkiewicz, "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface," submitted to IEEE Transactions on Wireless Communications <a href="https://arxiv.org/abs/2303.10577"> [arxiv]</a>.
+[P1] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, and E. Dutkiewicz, "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface," IEEE Transactions on Wireless Communications (major revision) <a href="https://arxiv.org/abs/2303.10577"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 
@@ -76,7 +82,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[C5] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and E. Dutkiewicz, "Toward BCI-enabled Metaverse: A Joint Learning and Resource Allocation Approach,"  IEEE Global Communications Conference, December 2023,  Malaysia (accepted).
+[C5] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and E. Dutkiewicz, "Toward BCI-enabled Metaverse: A Joint Learning and Resource Allocation Approach,"  IEEE Global Communications Conference, December 2023,  Malaysia.
 </autocolor></a></li>
 </ul>
 

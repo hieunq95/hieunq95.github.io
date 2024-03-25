@@ -5,6 +5,7 @@ main:
     conference: Arxiv
     pdf: https://arxiv.org/abs/2310.20228
     image: ./assets/img/hieu2023reconstructing.png
+    code: https://github.com/hieunq95/compressive-sensing-imu
     notes: Under review - IEEE JSAC
 
   - title: "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey"

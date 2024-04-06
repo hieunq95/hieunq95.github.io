@@ -4,19 +4,13 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P4] M. A. Hassan,  M. B. Jamshidi, B. D. Manh,  N. H. Chu, C. H. Nguyen, <strong>N. Q. Hieu</strong>,  C. T. Nguyen, D. T. Hoang, D. N. Nguyen, N. V. Huynh, M. A. Alsheikh, and E. Dutkiewicz, "Enabling Technologies for Web 3.0: A Comprehensive Survey," submitted to <i>IEEE Communications Surveys & Tutorials </i> <a href="https://arxiv.org/abs/2401.10901"> [arxiv]</a>.
+[P3] M. A. Hassan,  M. B. Jamshidi, B. D. Manh,  N. H. Chu, C. H. Nguyen, <strong>N. Q. Hieu</strong>,  C. T. Nguyen, D. T. Hoang, D. N. Nguyen, N. V. Huynh, M. A. Alsheikh, and E. Dutkiewicz, "Enabling Technologies for Web 3.0: A Comprehensive Survey," <a href="https://arxiv.org/abs/2401.10901"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P3] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh, "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach," <i>IEEE Journal on Selected Areas in Communications (major revision)</i> <a href="https://arxiv.org/abs/2310.20228"> [arxiv]</a> <a href="https://github.com/hieunq95/compressive-sensing-imu"> [code]</a>.
-</autocolor></a></li>
-</ul>
-
-<ul style="margin:0 0 5px;">
-<li><a><autocolor>
-[P2] H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin, "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey," submitted to <i>IEEE Communications Surveys & Tutorials</i> <a href="https://arxiv.org/abs/2309.01848"> [arxiv]</a>.
+[P2] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh, "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach," <i>IEEE Journal on Selected Areas in Communications (major revision)</i> <a href="https://arxiv.org/abs/2310.20228"> [arxiv]</a> <a href="https://github.com/hieunq95/compressive-sensing-imu"> [code]</a>.
 </autocolor></a></li>
 </ul>
 
@@ -31,19 +25,25 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[J8] <strong>N. Q. Hieu</strong>, D. N. Nguyen, D. T. Hoang, and E. Dutkiewicz, "When Virtual Reality Meets Rate Splitting Multiple Access: A Joint Communication and Computation Approach," <i>IEEE Journal on Selected Areas in Communications</i>, vol. 41, no. 5, pp. 1536-1548, May 2023 (IF=16.4, Q1).
+[J9] H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin, "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey," <i>IEEE Communications Surveys & Tutorials</i> (accepted) (IF=35.6, Q1) <a href="https://arxiv.org/abs/2309.01848"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[J7] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, D. N. Nguyen, D. I. Kim, and A. Jamalipour, "Joint Power Allocation and Rate Control for Rate Splitting Multiple Access Networks with Covert Communications," <i>IEEE Transactions on Communications</i>, vol. 71, no. 4, pp. 2274-2287, Apr. 2023 (IF=8.3, Q1).
+[J8] <strong>N. Q. Hieu</strong>, D. N. Nguyen, D. T. Hoang, and E. Dutkiewicz, "When Virtual Reality Meets Rate Splitting Multiple Access: A Joint Communication and Computation Approach," <i>IEEE Journal on Selected Areas in Communications</i>, vol. 41, no. 5, pp. 1536-1548, May 2023 (IF=16.4, Q1) <a href="https://arxiv.org/abs/2207.12114"> [arxiv] </a>.
 </autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[J6] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, P. Wang, D. In Kim, and C. Yuen, "Transferable Deep Reinforcement Learning Framework for Autonomous Vehicles with Joint Radar-Data Communications," <i>IEEE Transactions on Communications</i>, vol. 7, no. 8, Aug. 2022 (IF=8.3, Q1).
+[J7] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, D. N. Nguyen, D. I. Kim, and A. Jamalipour, "Joint Power Allocation and Rate Control for Rate Splitting Multiple Access Networks with Covert Communications," <i>IEEE Transactions on Communications</i>, vol. 71, no. 4, pp. 2274-2287, Apr. 2023 (IF=8.3, Q1) <a href="https://arxiv.org/abs/2203.16807"> [arxiv] </a>.
+</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+<li><a><autocolor>
+[J6] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, P. Wang, D. In Kim, and C. Yuen, "Transferable Deep Reinforcement Learning Framework for Autonomous Vehicles with Joint Radar-Data Communications," <i>IEEE Transactions on Communications</i>, vol. 7, no. 8, Aug. 2022 (IF=8.3, Q1) <a href="https://arxiv.org/abs/2105.13670"> [arxiv] </a>.
 </autocolor></a></li>
 </ul>
 
@@ -61,7 +61,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[J3] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, and D. In Kim, "Optimal Power Allocation for Rate Splitting Communications with Deep Reinforcement Learning," <i>IEEE Wireless Communications Letters</i>, vol. 10. no.12, Oct. 2021 (IF=6.3, Q1).
+[J3] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. Niyato, and D. In Kim, "Optimal Power Allocation for Rate Splitting Communications with Deep Reinforcement Learning," <i>IEEE Wireless Communications Letters</i>, vol. 10. no.12, Oct. 2021 (IF=6.3, Q1) <a href="https://arxiv.org/abs/2107.00238"> [arxiv] </a>.
 </autocolor></a></li>
 </ul>
 

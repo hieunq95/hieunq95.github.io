@@ -10,11 +10,11 @@ main:
 
   - title: "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey"
     authors: H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin
-    conference_short: Preprint
-    conference: Arxiv
+    conference_short: COMST
+    conference: IEEE COMST
     pdf: https://arxiv.org/abs/2309.01848
     image: ./assets/img/zhu2023survey.png
-    notes: Under review - IEEE COMST
+    notes: April 2024
 
   - title: "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface"
     authors: <strong>N.Q. Hieu</strong>, D.T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, E. Dutkiewicz

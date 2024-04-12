@@ -1,5 +1,6 @@
 ## All publications <a id="all-pub"></a>
 
+<!-- **************************************** Preprints start here **************************************** -->
 <h4 style="margin:0 10px 0;"> Preprints</h4>
 
 <ul style="margin:0 0 5px;">
@@ -10,22 +11,23 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P2] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh, "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach," <i>IEEE Journal on Selected Areas in Communications (major revision)</i> <a href="https://arxiv.org/abs/2310.20228"> [arxiv]</a> <a href="https://github.com/hieunq95/compressive-sensing-imu"> [code]</a>.
+[P2] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh, "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach," <i>IEEE Journal on Selected Areas in Communications </i> (major revision) <a href="https://arxiv.org/abs/2310.20228">[arxiv]</a> <a href="https://github.com/hieunq95/compressive-sensing-imu"> [code]</a>.
 </autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P1] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, and E. Dutkiewicz, "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface," <i>IEEE Transactions on Wireless Communications (major revision)</i> <a href="https://arxiv.org/abs/2303.10577"> [arxiv]</a>.
+[P1] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, and E. Dutkiewicz, "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface," <i>IEEE Transactions on Wireless Communications </i> (major revision) <a href="https://arxiv.org/abs/2303.10577"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 
+<!-- **************************************** Journal start here **************************************** -->
 
 <h4 style="margin:0 10px 0;"> Journals</h4>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[J9] H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin, "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey," <i>IEEE Communications Surveys & Tutorials</i> (accepted) (IF=35.6, Q1) <a href="https://arxiv.org/abs/2309.01848"> [arxiv]</a>.
+[J9] H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin, "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey," <i>IEEE Communications Surveys & Tutorials</i> (accepted) (IF=35.6, Q1) <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10496440"> [pdf]</a>.
 </autocolor></a></li>
 </ul>
 
@@ -77,6 +79,7 @@
 </autocolor></a></li>
 </ul>
 
+<!-- **************************************** Conference start here **************************************** -->
 
 <h4 style="margin:0 10px 0;"> Conferences</h4>
 

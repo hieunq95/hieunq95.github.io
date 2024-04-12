@@ -2,16 +2,16 @@ main:
   - title: "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach"
     authors: <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh
     conference_short: Preprint
-    conference: Arxiv
+    conference: IEEE Journal on Selected Areas in Communications
     pdf: https://arxiv.org/abs/2310.20228
     image: ./assets/img/hieu2023reconstructing.png
     code: https://github.com/hieunq95/compressive-sensing-imu
-    notes: Under review - IEEE JSAC
+    notes: Major revision
 
   - title: "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey"
     authors: H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin
     conference_short: COMST
-    conference: IEEE COMST
+    conference: IEEE Communications Surveys & Tutorials
     pdf: https://arxiv.org/abs/2309.01848
     image: ./assets/img/zhu2023survey.png
     notes: April 2024
@@ -19,10 +19,10 @@ main:
   - title: "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface"
     authors: <strong>N.Q. Hieu</strong>, D.T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, E. Dutkiewicz
     conference_short: Preprint
-    conference: Arxiv
+    conference: IEEE Transactions on Wireless Communications
     pdf: https://arxiv.org/abs/2303.10577
     image: ./assets/img/hieu2023enhancing.png
-    notes: Under review - IEEE TWC
+    notes: Major revision
 
   - title: "When Virtual Reality Meets Rate Splitting Multiple Access: A Joint Communication and Computation Approach"
     authors: <strong>N. Q. Hieu</strong>, Diep N. Nguyen, D. T. Hoang, and E. Dutkiewicz

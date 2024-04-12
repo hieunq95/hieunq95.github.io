@@ -1,6 +1,6 @@
-## My Favorite Reading List
+## Favorite Reading List
 
-<p> I really enjoy reading text books that write about fundamental concepts in machine learning. Here are my favorite books in chronological order: </p>
+<p> I really enjoy reading text books that write about fundamental concepts in machine learning, information theory, and network information theory: </p>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>

@@ -6,13 +6,13 @@ main:
     pdf: https://arxiv.org/abs/2310.20228
     image: ./assets/img/hieu2023reconstructing.png
     code: https://github.com/hieunq95/compressive-sensing-imu
-    notes: Major revision
+    notes: May 2024
 
   - title: "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey"
     authors: H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin
     conference_short: COMST
     conference: IEEE Communications Surveys & Tutorials
-    pdf: https://arxiv.org/abs/2309.01848
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10496440
     image: ./assets/img/zhu2023survey.png
     notes: April 2024
 

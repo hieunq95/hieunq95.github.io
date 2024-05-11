@@ -5,13 +5,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-[P3] M. A. Hassan,  M. B. Jamshidi, B. D. Manh,  N. H. Chu, C. H. Nguyen, <strong>N. Q. Hieu</strong>,  C. T. Nguyen, D. T. Hoang, D. N. Nguyen, N. V. Huynh, M. A. Alsheikh, and E. Dutkiewicz, "Enabling Technologies for Web 3.0: A Comprehensive Survey," <a href="https://arxiv.org/abs/2401.10901"> [arxiv]</a>.
-</autocolor></a></li>
-</ul>
-
-<ul style="margin:0 0 5px;">
-<li><a><autocolor>
-[P2] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh, "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach," <i>IEEE Journal on Selected Areas in Communications </i> (major revision) <a href="https://arxiv.org/abs/2310.20228">[arxiv]</a> <a href="https://github.com/hieunq95/compressive-sensing-imu"> [code]</a>.
+[P2] M. A. Hassan,  M. B. Jamshidi, B. D. Manh,  N. H. Chu, C. H. Nguyen, <strong>N. Q. Hieu</strong>,  C. T. Nguyen, D. T. Hoang, D. N. Nguyen, N. V. Huynh, M. A. Alsheikh, and E. Dutkiewicz, "Enabling Technologies for Web 3.0: A Comprehensive Survey," <a href="https://arxiv.org/abs/2401.10901"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
 
@@ -22,8 +16,13 @@
 </ul>
 
 <!-- **************************************** Journal start here **************************************** -->
-
 <h4 style="margin:0 10px 0;"> Journals</h4>
+
+<ul style="margin:0 0 5px;">
+<li><a><autocolor>
+[J10] <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh, "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach," <i>IEEE Journal on Selected Areas in Communications </i> (accepted) <a href="https://arxiv.org/abs/2310.20228">[arxiv]</a> <a href="https://github.com/hieunq95/compressive-sensing-imu"> [code]</a>.
+</autocolor></a></li>
+</ul>
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>

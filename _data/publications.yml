@@ -1,35 +1,35 @@
 main:
   - title: "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach"
     authors: <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and M. A. Alsheikh
-    conference_short: Preprint
+    conference_short: JSAC-2024
     conference: IEEE Journal on Selected Areas in Communications
     pdf: https://arxiv.org/abs/2310.20228
     image: ./assets/img/hieu2023reconstructing.png
     code: https://github.com/hieunq95/compressive-sensing-imu
-    notes: May 2024
+    notes: We explore the ability of generative AI for reconstructing 3D human pose from IMU sensors with the presence of noisy wireless environment and compressed sensing.
 
   - title: "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey"
     authors: H. Y. Zhu, <strong>N. Q. Hieu</strong>, D. T. Hoang, D. N. Nguyen, and C.T. Lin
-    conference_short: COMST
+    conference_short: COMST-2024
     conference: IEEE Communications Surveys & Tutorials
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10496440
     image: ./assets/img/zhu2023survey.png
-    notes: April 2024
+    notes: We survey potential applications of BCI to the Metaverse. We discuss an emerging concept "Human Digital Twin".
 
   - title: "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface"
     authors: <strong>N.Q. Hieu</strong>, D.T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, E. Dutkiewicz
     conference_short: Preprint
-    conference: IEEE Transactions on Wireless Communications
+    conference: Under revision - IEEE Transactions on Wireless Communications
     pdf: https://arxiv.org/abs/2303.10577
     image: ./assets/img/hieu2023enhancing.png
-    notes: Major revision
+    notes: We explore a new type of immersive commucation scenario where users can exchange brain signals (EEG) via wireless channels to create intelligent and personalized avatars.
 
   - title: "When Virtual Reality Meets Rate Splitting Multiple Access: A Joint Communication and Computation Approach"
     authors: <strong>N. Q. Hieu</strong>, Diep N. Nguyen, D. T. Hoang, and E. Dutkiewicz
-    conference_short: JSAC
+    conference_short: JSAC-2023
     conference: IEEE Journal on Selected Areas in Communications
     pdf: https://arxiv.org/pdf/2207.12114.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/hieu2023when.png
-    notes: May 2023
+    notes: We investigate the role of rate splitting multiple access in an edge computing scenario in which AI-enabled edge server can broadcast virtual reality services to users.

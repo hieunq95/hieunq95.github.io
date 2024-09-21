@@ -18,8 +18,8 @@ main:
 
   - title: "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface"
     authors: <strong>N.Q. Hieu</strong>, D.T. Hoang, D. N. Nguyen, V. D. Nguyen, Y. Xiao, E. Dutkiewicz
-    conference_short: Preprint
-    conference: Under revision - IEEE Transactions on Wireless Communications
+    conference_short: TWC-2024
+    conference: IEEE Transactions on Wireless Communications
     pdf: https://arxiv.org/abs/2303.10577
     image: ./assets/img/hieu2023enhancing.png
     notes: We explore a new type of immersive commucation scenario where users can exchange brain signals (EEG) via wireless channels to create intelligent and personalized avatars.

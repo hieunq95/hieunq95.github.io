@@ -1,4 +1,4 @@
-## All publications <a id="all-pub"></a>
+## All Publications <a id="all-pub"></a>
 
 <!-- **************************************** Preprints start here **************************************** -->
 <h4 style="margin:0 10px 0;"> Preprints</h4>

@@ -93,7 +93,7 @@ Install and run:
 ```bash
 bundle install
 bundle add webrick
-bundle exec jekyll server 
+bundle exec jekyll serve
 bundle exec jekyll serve --port=4001
 ```
 View the live page using `localhost`:

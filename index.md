@@ -12,9 +12,9 @@ During my time at NTU Singapore, I focused on deep reinforcement learning (DRL) 
  My PhD studies at UTS broadened my research interests to advanced topics like human sensing towards extended reality applications in future communication systems. As my research evolved, I began exploring new frameworks such as generative models, graphical models, and information theory tools to deepen my understanding and analysis of these complex topics.
 
 ## News
-<!-- - **[Sep 2024]** I successfully defend my PhD thesis, entitled "Immersive Communications for 6G Networks". I'm now open for job opportunities. -->
-- **[Sep 2024]** Our paper "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface" is accepted to IEEE Transactions on Wireless Communications (IF=8.9)
-- **[Aug 2024]** Our paper "A Lightweight Human Pose Estimation Approach for Edge Computing-Enabled Metaverse with Compressive Sensing" is accepted to IEEE Globecom 2024
+- **[Sep. 2024]** I successfully defend my PhD thesis, entitled "Immersive Communications for 6G Networks". I'm now open for job opportunities.
+- **[Sep. 2024]** Our paper "Enhancing Immersion and Presence in the Metaverse with Over-the-Air Brain-Computer Interface" is accepted to IEEE Transactions on Wireless Communications (IF=8.9)
+- **[Aug. 2024]** Our paper "A Lightweight Human Pose Estimation Approach for Edge Computing-Enabled Metaverse with Compressive Sensing" is accepted to IEEE Globecom 2024
 - **[May 2024]** Our paper "Reconstructing Human Pose from Inertial Measurements: A Generative Model-based Compressive Sensing Approach" is accepted to IEEE Journal on Selected Areas in Communications - Special Issue on Positioning and Sensing Over Wireless Networks (IF=13.8)
 - **[Apr. 2024]** Our paper "A Human-Centric Metaverse Enabled by Brain-Computer Interface: A Survey" is accepted to IEEE Communications Surveys & Tutorials (IF=34.4)
 <!-- - **[Dec. 2023]** Our paper "Enabling Technologies for Web 3.0: A Comprehensive Survey" is submitted to IEEE COMST -->

@@ -9,6 +9,15 @@
 </autocolor></a></li>
 </ul>
 
+<!-- **************************************** Books start here **************************************** -->
+<h4 style="margin:0 10px 0;"> Books</h4>
+
+<ul style="margin:0 0 5px;">
+<li><a><autocolor>
+D. T. Hoang, <strong>N. Q. Hieu</strong>, D. N. Nguyen, and E. Hossain, " Advanced Machine Learning for Cyberattack Detection in IoT Networks", Elsevier, 2024, <a href="https://www.amazon.com.au/Advanced-Learning-Cyber-Attack-Detection-Networks/dp/0443290326"> [link]</a>.
+</autocolor></a></li>
+</ul>
+
 <!-- **************************************** Journal start here **************************************** -->
 <h4 style="margin:0 10px 0;"> Journals</h4>
 <ul style="margin:0 0 5px;">

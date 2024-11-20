@@ -5,6 +5,12 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
+[P2] <strong>N. Q. Hieu</strong>, M. Nguyen, D. T. Hoang, D. N. Nguyen, and E. Dutkiewicz, "Point Cloud Compression with Bits-back Coding," <a href="https://arxiv.org/abs/2410.18115"> [arxiv]</a>.
+</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
+<li><a><autocolor>
 [P1] M. A. Hassan,  M. B. Jamshidi, B. D. Manh,  N. H. Chu, C. H. Nguyen, <strong>N. Q. Hieu</strong>,  C. T. Nguyen, D. T. Hoang, D. N. Nguyen, N. V. Huynh, M. A. Alsheikh, and E. Dutkiewicz, "Enabling Technologies for Web 3.0: A Comprehensive Survey," <a href="https://arxiv.org/abs/2401.10901"> [arxiv]</a>.
 </autocolor></a></li>
 </ul>
@@ -14,7 +20,7 @@
 
 <ul style="margin:0 0 5px;">
 <li><a><autocolor>
-D. T. Hoang, <strong>N. Q. Hieu</strong>, D. N. Nguyen, and E. Hossain, " Advanced Machine Learning for Cyberattack Detection in IoT Networks", Elsevier, 2024, <a href="https://www.amazon.com.au/Advanced-Learning-Cyber-Attack-Detection-Networks/dp/0443290326"> [link]</a>.
+D. T. Hoang, <strong>N. Q. Hieu</strong>, D. N. Nguyen, and E. Hossain, "Advanced Machine Learning for Cyberattack Detection in IoT Networks", Elsevier, 2024, <a href="https://www.amazon.com.au/Advanced-Learning-Cyber-Attack-Detection-Networks/dp/0443290326"> [link]</a>.
 </autocolor></a></li>
 </ul>
 

@@ -65,6 +65,6 @@ Awards
     * Recognized for exceptional research contributions to top PhD candidates at the School of Electrical and Data Engineering, UTS.
  * Honorary Mention, IEEE ComSoc Student Competition, 2023
     * Project title: "Toward a Human-centric Metaverse Design with Wireless Edge Computing and Artificial Intelligence." [news](https://www.comsoc.org/membership/ieee-comsoc-student-competition/winners)
-    * Received global recognition (top 14 out of 80 groups) for innovative ML-driven solutions addressing real-world communication challenges, competing against top students worldwide.
+    * Received global recognition (top 16 out of 72 groups) for innovative ML-driven solutions addressing real-world communication challenges, competing against top students worldwide.
  * IEEE ComSoc Student Travel Grant 
     * Selected among top students globally to present cutting-edge research in ML and 5G/6G communications in the IEEE International Conference on Communications. [news](https://icc2023.ieee-icc.org/registration/student-travel-grants)
